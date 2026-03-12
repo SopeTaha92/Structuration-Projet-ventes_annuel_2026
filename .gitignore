@@ -1,10 +1,10 @@
 
 
 
-venv/               # Ton environnement virtuel
-*.pyc               # Fichiers Python compilés
-__pycache__/        # Dossiers de cache
-.env                # TES MOTS DE PASSE (crucial pour PostgreSQL plus tard)
-output/*.xlsx            # Tes rapports Excel générés
-logs/*.log          # Tes fichiers de logs locaux
-data/processed/*.csv
+venv/               
+*.pyc              
+__pycache__/        
+.env                
+*.xlsx       
+*.log          
+data/processed/*.csv 
